@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on My Personal Blog</title>
+    <link>//localhost:1313/tags/</link>
+    <description>Recent content in Tags on My Personal Blog</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 18 Sep 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Threat</title>
+      <link>//localhost:1313/tags/threat/</link>
+      <pubDate>Thu, 18 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/threat/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Threat Analysis</title>
+      <link>//localhost:1313/tags/threat-analysis/</link>
+      <pubDate>Thu, 18 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/threat-analysis/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>CyberSecurity</title>
+      <link>//localhost:1313/tags/cybersecurity/</link>
+      <pubDate>Fri, 15 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/cybersecurity/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Roles</title>
+      <link>//localhost:1313/tags/roles/</link>
+      <pubDate>Wed, 25 Jun 2025 16:23:07 +0530</pubDate>
+      <guid>//localhost:1313/tags/roles/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Web</title>
+      <link>//localhost:1313/tags/web/</link>
+      <pubDate>Wed, 25 Jun 2025 16:23:07 +0530</pubDate>
+      <guid>//localhost:1313/tags/web/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Introduction</title>
+      <link>//localhost:1313/tags/introduction/</link>
+      <pubDate>Tue, 10 Jun 2025 16:15:03 +0530</pubDate>
+      <guid>//localhost:1313/tags/introduction/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Security</title>
+      <link>//localhost:1313/tags/security/</link>
+      <pubDate>Tue, 10 Jun 2025 16:15:03 +0530</pubDate>
+      <guid>//localhost:1313/tags/security/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>//localhost:1313/tags/about/</link>
+      <pubDate>Sat, 31 May 2025 12:07:52 +0530</pubDate>
+      <guid>//localhost:1313/tags/about/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Blog</title>
+      <link>//localhost:1313/tags/blog/</link>
+      <pubDate>Sat, 31 May 2025 12:07:52 +0530</pubDate>
+      <guid>//localhost:1313/tags/blog/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tech</title>
+      <link>//localhost:1313/tags/tech/</link>
+      <pubDate>Sat, 31 May 2025 12:07:52 +0530</pubDate>
+      <guid>//localhost:1313/tags/tech/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

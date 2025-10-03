@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Common Threats on My Personal Blog</title>
+    <link>//localhost:1313/categories/common-threats/</link>
+    <description>Recent content in Common Threats on My Personal Blog</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 15 Aug 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/categories/common-threats/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Types of Cybersecurity Threats</title>
+      <link>//localhost:1313/posts/typesofthreats/</link>
+      <pubDate>Fri, 15 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/typesofthreats/</guid>
+      <description>&lt;p align=&#34;justify&#34;&gt;Cybersecurity threats come in many shapes and sizes. Some of the most common threats include:&lt;/p&gt;&#xD;&#xA;&lt;!-- more --&gt;&#xD;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Malware: Malicious software designed to damage or gain unauthorized access to computers or networks. Types of malware include viruses, worms, ransomware, and spyware.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Phishing: Cybercriminals trick individuals into revealing sensitive information, such as login credentials or financial details, by pretending to be legitimate entities via email, phone, or social media.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Ransomware: A form of malware that encrypts the victim&amp;rsquo;s files, demanding a ransom for their release. It has become one of the most financially devastating attacks in recent years.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Threat on My Personal Blog</title>
+    <link>//localhost:1313/tags/threat/</link>
+    <description>Recent content in Threat on My Personal Blog</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 18 Sep 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/threat/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Threat Analysis in Cybersecurity</title>
+      <link>//localhost:1313/posts/threatanalysis/</link>
+      <pubDate>Thu, 18 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/threatanalysis/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;An Overview&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Threat analysis in cybersecurity involves identifying, assessing, and prioritizing potential threats to an organization&amp;rsquo;s digital assets, infrastructure, and operations. It&amp;rsquo;s a crucial part of a proactive cybersecurity strategy, allowing organizations to better anticipate and mitigate risks. A thorough threat analysis helps to understand potential attack vectors, the tactics and techniques employed by adversaries, and the overall security posture of an organization.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;1. Understanding the Threat Landscape&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;A critical first step is to establish the broader &lt;strong&gt;threat landscape&lt;/strong&gt; — a comprehensive view of potential cyber threats relevant to your organization. Cyber threats can come in many forms, including external attacks, insider threats, and supply chain vulnerabilities. The landscape should be continuously monitored to stay ahead of evolving threats.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Types of Cybersecurity Threats</title>
+      <link>//localhost:1313/posts/typesofthreats/</link>
+      <pubDate>Fri, 15 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/typesofthreats/</guid>
+      <description>&lt;p align=&#34;justify&#34;&gt;Cybersecurity threats come in many shapes and sizes. Some of the most common threats include:&lt;/p&gt;&#xD;&#xA;&lt;!-- more --&gt;&#xD;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Malware: Malicious software designed to damage or gain unauthorized access to computers or networks. Types of malware include viruses, worms, ransomware, and spyware.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Phishing: Cybercriminals trick individuals into revealing sensitive information, such as login credentials or financial details, by pretending to be legitimate entities via email, phone, or social media.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Ransomware: A form of malware that encrypts the victim&amp;rsquo;s files, demanding a ransom for their release. It has become one of the most financially devastating attacks in recent years.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

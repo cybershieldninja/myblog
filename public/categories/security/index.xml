@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Security on My Personal Blog</title>
+    <link>//localhost:1313/#/categories/security/</link>
+    <description>Recent content in Security on My Personal Blog</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 31 May 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/#/categories/security/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cybersecurity</title>
+      <link>//localhost:1313/#/posts/cybersecurity/</link>
+      <pubDate>Sat, 31 May 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/#/posts/cybersecurity/</guid>
+      <description>&lt;h2 id=&#34;introduction---cybersecurity&#34;&gt;Introduction - Cybersecurity&lt;/h2&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;h2 id=&#34;what-is-cybersecurity&#34;&gt;What is Cybersecurity?&lt;/h2&gt;&#xA;&lt;!-- raw HTML omitted --&gt;</description>
+    </item>
+  </channel>
+</rss>

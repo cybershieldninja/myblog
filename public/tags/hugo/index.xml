@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hugo on My Personal Blog</title>
+    <link>//localhost:1313/#/tags/hugo/</link>
+    <description>Recent content in Hugo on My Personal Blog</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 31 May 2025 12:07:52 +0530</lastBuildDate>
+    <atom:link href="//localhost:1313/#/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Welcome to my blog</title>
+      <link>//localhost:1313/#/posts/post-03oct/</link>
+      <pubDate>Sat, 31 May 2025 12:07:52 +0530</pubDate>
+      <guid>//localhost:1313/#/posts/post-03oct/</guid>
+      <description>&lt;p&gt;This is my first blog post! The static site generator is incredibly fast and easy to use.&lt;/p&gt;&#xA;&lt;h2 id=&#34;why-i-chose-hugo&#34;&gt;Why I chose Hugo&lt;/h2&gt;&#xA;&lt;p&gt;Hugo offers several advantages:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Lightning fast build times&lt;/li&gt;&#xA;&lt;li&gt;Simple content management&lt;/li&gt;&#xA;&lt;li&gt;Great theme system&lt;/li&gt;&#xA;&lt;li&gt;Built-in features like RSS feeds&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;getting-started&#34;&gt;Getting Started&lt;/h2&gt;&#xA;&lt;p&gt;Setting up a Hugo blog is straightforward&amp;hellip;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
