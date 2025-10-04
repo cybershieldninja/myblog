@@ -23,6 +23,20 @@
       <description></description>
     </item>
     <item>
+      <title>Jenkins</title>
+      <link>//localhost:1313/tags/jenkins/</link>
+      <pubDate>Sun, 31 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/jenkins/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Pipeline</title>
+      <link>//localhost:1313/tags/pipeline/</link>
+      <pubDate>Sun, 31 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/pipeline/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>CyberSecurity</title>
       <link>//localhost:1313/tags/cybersecurity/</link>
       <pubDate>Fri, 15 Aug 2025 00:00:00 +0000</pubDate>

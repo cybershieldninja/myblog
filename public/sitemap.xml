@@ -26,6 +26,18 @@
     <loc>//localhost:1313/posts/threatanalysis/</loc>
     <lastmod>2025-09-18T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>//localhost:1313/posts/jenkins/</loc>
+    <lastmod>2025-08-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/categories/jenkins/</loc>
+    <lastmod>2025-08-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/jenkins/</loc>
+    <lastmod>2025-08-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/pipeline/</loc>
+    <lastmod>2025-08-31T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>//localhost:1313/categories/common-threats/</loc>
     <lastmod>2025-08-15T00:00:00+00:00</lastmod>
   </url><url>
