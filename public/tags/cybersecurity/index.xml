@@ -1,33 +1,15 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>CyberSecurity on My Personal Blog</title>
-    <link>//localhost:1313/tags/cybersecurity/</link>
-    <description>Recent content in CyberSecurity on My Personal Blog</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Fri, 15 Aug 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/tags/cybersecurity/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Types of Cybersecurity Threats</title>
-      <link>//localhost:1313/posts/typesofthreats/</link>
-      <pubDate>Fri, 15 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/posts/typesofthreats/</guid>
-      <description>&lt;p align=&#34;justify&#34;&gt;Cybersecurity threats come in many shapes and sizes. Some of the most common threats include:&lt;/p&gt;&#xD;&#xA;&lt;!-- more --&gt;&#xD;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Malware:&lt;/strong&gt; Malicious software designed to damage or gain unauthorized access to computers or networks. Types of malware include viruses, worms, ransomware, and spyware.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Phishing:&lt;/strong&gt; Cybercriminals trick individuals into revealing sensitive information, such as login credentials or financial details, by pretending to be legitimate entities via email, phone, or social media.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Ransomware:&lt;/strong&gt; A form of malware that encrypts the victim&amp;rsquo;s files, demanding a ransom for their release. It has become one of the most financially devastating attacks in recent years.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Cybersecurity Roles</title>
-      <link>//localhost:1313/posts/securityroles/</link>
-      <pubDate>Wed, 25 Jun 2025 16:23:07 +0530</pubDate>
-      <guid>//localhost:1313/posts/securityroles/</guid>
-      <description>&lt;p&gt;Cybersecurity is a dynamic and complex field, encompassing a wide range of roles and responsibilities aimed at safeguarding an organization’s information, networks, and systems. These roles are critical in defending against the growing and evolving landscape of cyber threats. From strategic decision-making to hands-on technical tasks, various cybersecurity professionals work together to build comprehensive security measures.&lt;/p&gt;&#xA;&lt;p&gt;Here are some of the most common cybersecurity roles found in organizations today:&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Chief Information Security Officer (CISO)&lt;/strong&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Introduction - Cybersecurity</title>
-      <link>//localhost:1313/posts/cybersecurity/</link>
-      <pubDate>Tue, 10 Jun 2025 16:15:03 +0530</pubDate>
-      <guid>//localhost:1313/posts/cybersecurity/</guid>
-      <description>&lt;p&gt;In today&amp;rsquo;s hyper-connected world, cybersecurity has become more crucial than ever. With the rapid advancement of technology and the increasing frequency of cyberattacks, safeguarding sensitive information is paramount. Whether you&amp;rsquo;re an individual, a business, or a large organization, understanding the importance of cybersecurity is the first step toward creating a secure digital environment.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;What is Cybersecurity?&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Cybersecurity refers to the practice of protecting systems, networks, devices, and data from malicious attacks, damage, or unauthorized access. As the digital landscape evolves, so do the methods cybercriminals use to exploit vulnerabilities. Cybersecurity encompasses a wide range of measures, including technology, processes, and practices, all designed to ensure the confidentiality, integrity, and availability of information.&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>CyberSecurity on My Personal Blog</title><link>/tags/cybersecurity/</link><description>Recent content in CyberSecurity on My Personal Blog</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Fri, 15 Aug 2025 00:00:00 +0000</lastBuildDate><atom:link href="/tags/cybersecurity/index.xml" rel="self" type="application/rss+xml"/><item><title>Types of Cybersecurity Threats</title><link>/posts/typesofthreats/</link><pubDate>Fri, 15 Aug 2025 00:00:00 +0000</pubDate><guid>/posts/typesofthreats/</guid><description>&lt;p align="justify"&gt;Cybersecurity threats come in many shapes and sizes. Some of the most common threats include:&lt;/p&gt;
+&lt;!-- more --&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Malware:&lt;/strong&gt; Malicious software designed to damage or gain unauthorized access to computers or networks. Types of malware include viruses, worms, ransomware, and spyware.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Phishing:&lt;/strong&gt; Cybercriminals trick individuals into revealing sensitive information, such as login credentials or financial details, by pretending to be legitimate entities via email, phone, or social media.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Ransomware:&lt;/strong&gt; A form of malware that encrypts the victim&amp;rsquo;s files, demanding a ransom for their release. It has become one of the most financially devastating attacks in recent years.&lt;/p&gt;</description></item><item><title>Cybersecurity Roles</title><link>/posts/securityroles/</link><pubDate>Wed, 25 Jun 2025 16:23:07 +0530</pubDate><guid>/posts/securityroles/</guid><description>&lt;p&gt;Cybersecurity is a dynamic and complex field, encompassing a wide range of roles and responsibilities aimed at safeguarding an organization’s information, networks, and systems. These roles are critical in defending against the growing and evolving landscape of cyber threats. From strategic decision-making to hands-on technical tasks, various cybersecurity professionals work together to build comprehensive security measures.&lt;/p&gt;
+&lt;p&gt;Here are some of the most common cybersecurity roles found in organizations today:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Chief Information Security Officer (CISO)&lt;/strong&gt;&lt;/p&gt;</description></item><item><title>Introduction - Cybersecurity</title><link>/posts/cybersecurity/</link><pubDate>Tue, 10 Jun 2025 16:15:03 +0530</pubDate><guid>/posts/cybersecurity/</guid><description>&lt;p&gt;In today&amp;rsquo;s hyper-connected world, cybersecurity has become more crucial than ever. With the rapid advancement of technology and the increasing frequency of cyberattacks, safeguarding sensitive information is paramount. Whether you&amp;rsquo;re an individual, a business, or a large organization, understanding the importance of cybersecurity is the first step toward creating a secure digital environment.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;What is Cybersecurity?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Cybersecurity refers to the practice of protecting systems, networks, devices, and data from malicious attacks, damage, or unauthorized access. As the digital landscape evolves, so do the methods cybercriminals use to exploit vulnerabilities. Cybersecurity encompasses a wide range of measures, including technology, processes, and practices, all designed to ensure the confidentiality, integrity, and availability of information.&lt;/p&gt;</description></item></channel></rss>

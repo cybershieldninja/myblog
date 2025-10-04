@@ -1,68 +1,28 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>My Personal Blog</title>
-    <link>//localhost:1313/</link>
-    <description>Recent content on My Personal Blog</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 18 Sep 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Threat Analysis in Cybersecurity</title>
-      <link>//localhost:1313/posts/threatanalysis/</link>
-      <pubDate>Thu, 18 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/posts/threatanalysis/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;An Overview&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Threat analysis in cybersecurity involves identifying, assessing, and prioritizing potential threats to an organization&amp;rsquo;s digital assets, infrastructure, and operations. It&amp;rsquo;s a crucial part of a proactive cybersecurity strategy, allowing organizations to better anticipate and mitigate risks. A thorough threat analysis helps to understand potential attack vectors, the tactics and techniques employed by adversaries, and the overall security posture of an organization.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;1. Understanding the Threat Landscape&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;A critical first step is to establish the broader &lt;strong&gt;threat landscape&lt;/strong&gt; — a comprehensive view of potential cyber threats relevant to your organization. Cyber threats can come in many forms, including external attacks, insider threats, and supply chain vulnerabilities. The landscape should be continuously monitored to stay ahead of evolving threats.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Automating Your DevOps Pipeline</title>
-      <link>//localhost:1313/posts/jenkins/</link>
-      <pubDate>Sun, 31 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/posts/jenkins/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Introduction to Jenkins&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;In today’s fast-paced software development landscape, continuous integration and continuous delivery (CI/CD) are crucial for maintaining a smooth, efficient workflow. Jenkins, one of the most popular open-source automation tools, plays a pivotal role in this transformation. In this blog post, we will explore what Jenkins is, its key features, and how it can streamline your software development lifecycle.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Types of Cybersecurity Threats</title>
-      <link>//localhost:1313/posts/typesofthreats/</link>
-      <pubDate>Fri, 15 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/posts/typesofthreats/</guid>
-      <description>&lt;p align=&#34;justify&#34;&gt;Cybersecurity threats come in many shapes and sizes. Some of the most common threats include:&lt;/p&gt;&#xD;&#xA;&lt;!-- more --&gt;&#xD;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Malware:&lt;/strong&gt; Malicious software designed to damage or gain unauthorized access to computers or networks. Types of malware include viruses, worms, ransomware, and spyware.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Phishing:&lt;/strong&gt; Cybercriminals trick individuals into revealing sensitive information, such as login credentials or financial details, by pretending to be legitimate entities via email, phone, or social media.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Ransomware:&lt;/strong&gt; A form of malware that encrypts the victim&amp;rsquo;s files, demanding a ransom for their release. It has become one of the most financially devastating attacks in recent years.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Cybersecurity Roles</title>
-      <link>//localhost:1313/posts/securityroles/</link>
-      <pubDate>Wed, 25 Jun 2025 16:23:07 +0530</pubDate>
-      <guid>//localhost:1313/posts/securityroles/</guid>
-      <description>&lt;p&gt;Cybersecurity is a dynamic and complex field, encompassing a wide range of roles and responsibilities aimed at safeguarding an organization’s information, networks, and systems. These roles are critical in defending against the growing and evolving landscape of cyber threats. From strategic decision-making to hands-on technical tasks, various cybersecurity professionals work together to build comprehensive security measures.&lt;/p&gt;&#xA;&lt;p&gt;Here are some of the most common cybersecurity roles found in organizations today:&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Chief Information Security Officer (CISO)&lt;/strong&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Introduction - Cybersecurity</title>
-      <link>//localhost:1313/posts/cybersecurity/</link>
-      <pubDate>Tue, 10 Jun 2025 16:15:03 +0530</pubDate>
-      <guid>//localhost:1313/posts/cybersecurity/</guid>
-      <description>&lt;p&gt;In today&amp;rsquo;s hyper-connected world, cybersecurity has become more crucial than ever. With the rapid advancement of technology and the increasing frequency of cyberattacks, safeguarding sensitive information is paramount. Whether you&amp;rsquo;re an individual, a business, or a large organization, understanding the importance of cybersecurity is the first step toward creating a secure digital environment.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;What is Cybersecurity?&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Cybersecurity refers to the practice of protecting systems, networks, devices, and data from malicious attacks, damage, or unauthorized access. As the digital landscape evolves, so do the methods cybercriminals use to exploit vulnerabilities. Cybersecurity encompasses a wide range of measures, including technology, processes, and practices, all designed to ensure the confidentiality, integrity, and availability of information.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Welcome to My Tech Journey! 🚀</title>
-      <link>//localhost:1313/posts/intro/</link>
-      <pubDate>Sat, 31 May 2025 12:07:52 +0530</pubDate>
-      <guid>//localhost:1313/posts/intro/</guid>
-      <description>&lt;p&gt;Hello, and welcome to my corner of the internet! I&amp;rsquo;m  a passionate coder with an enthusiasm for all things tech. From building scalable cloud infrastructure to diving deep into the world of cybersecurity, this blog will be a place where I share my knowledge, experiences, and explorations in the rapidly evolving tech landscape.&lt;/p&gt;&#xA;&lt;h2 id=&#34;-about-me&#34;&gt;🌟 About Me&lt;/h2&gt;&#xA;&lt;p&gt;I&amp;rsquo;m someone who thrives on solving complex problems through technology, and I have a deep interest in:&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Contact</title>
-      <link>//localhost:1313/contact/</link>
-      <pubDate>Thu, 01 May 2025 16:10:23 +0530</pubDate>
-      <guid>//localhost:1313/contact/</guid>
-      <description>&lt;p&gt;🌐 Connect with me&lt;/p&gt;&#xA;&lt;p&gt;📫 Reach me: &lt;a href=&#34;mailto:cybershieldninja@yahoo.com&#34;&gt;cybershieldninja@yahoo.com&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>About</title>
-      <link>//localhost:1313/about/</link>
-      <pubDate>Thu, 01 May 2025 12:10:32 +0530</pubDate>
-      <guid>//localhost:1313/about/</guid>
-      <description>&lt;p&gt;Thank you for visiting my blog. It&amp;rsquo;s a pleasure to meet you here!&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;🌟 Passions:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;💻 Coding enthusiast&lt;/p&gt;&#xA;&lt;p&gt;☁️ Cloud Computing &amp;amp; DevSecOps – Passionate about building and securing scalable cloud systems&lt;/p&gt;&#xA;&lt;p&gt;🔒 Cybersecurity – Focused on securing applications and infrastructure, both on-prem and in the cloud, using Ansible for automation and configuration management.&lt;/p&gt;&#xA;&lt;p&gt;🤖 AI and Machine Learning – Exploring how security and AI can work together&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;🚀 Interests:&lt;/strong&gt;&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>My Personal Blog</title><link>/</link><description>Recent content on My Personal Blog</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Thu, 18 Sep 2025 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml"/><item><title>Threat Analysis in Cybersecurity</title><link>/posts/threatanalysis/</link><pubDate>Thu, 18 Sep 2025 00:00:00 +0000</pubDate><guid>/posts/threatanalysis/</guid><description>&lt;p&gt;&lt;strong&gt;An Overview&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Threat analysis in cybersecurity involves identifying, assessing, and prioritizing potential threats to an organization&amp;rsquo;s digital assets, infrastructure, and operations. It&amp;rsquo;s a crucial part of a proactive cybersecurity strategy, allowing organizations to better anticipate and mitigate risks. A thorough threat analysis helps to understand potential attack vectors, the tactics and techniques employed by adversaries, and the overall security posture of an organization.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;1. Understanding the Threat Landscape&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;A critical first step is to establish the broader &lt;strong&gt;threat landscape&lt;/strong&gt; — a comprehensive view of potential cyber threats relevant to your organization. Cyber threats can come in many forms, including external attacks, insider threats, and supply chain vulnerabilities. The landscape should be continuously monitored to stay ahead of evolving threats.&lt;/p&gt;</description></item><item><title>Automating Your DevOps Pipeline</title><link>/posts/jenkins/</link><pubDate>Sun, 31 Aug 2025 00:00:00 +0000</pubDate><guid>/posts/jenkins/</guid><description>&lt;p&gt;&lt;strong&gt;Introduction to Jenkins&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;In today’s fast-paced software development landscape, continuous integration and continuous delivery (CI/CD) are crucial for maintaining a smooth, efficient workflow. Jenkins, one of the most popular open-source automation tools, plays a pivotal role in this transformation. In this blog post, we will explore what Jenkins is, its key features, and how it can streamline your software development lifecycle.&lt;/p&gt;</description></item><item><title>Types of Cybersecurity Threats</title><link>/posts/typesofthreats/</link><pubDate>Fri, 15 Aug 2025 00:00:00 +0000</pubDate><guid>/posts/typesofthreats/</guid><description>&lt;p align="justify"&gt;Cybersecurity threats come in many shapes and sizes. Some of the most common threats include:&lt;/p&gt;
+&lt;!-- more --&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Malware:&lt;/strong&gt; Malicious software designed to damage or gain unauthorized access to computers or networks. Types of malware include viruses, worms, ransomware, and spyware.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Phishing:&lt;/strong&gt; Cybercriminals trick individuals into revealing sensitive information, such as login credentials or financial details, by pretending to be legitimate entities via email, phone, or social media.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Ransomware:&lt;/strong&gt; A form of malware that encrypts the victim&amp;rsquo;s files, demanding a ransom for their release. It has become one of the most financially devastating attacks in recent years.&lt;/p&gt;</description></item><item><title>Cybersecurity Roles</title><link>/posts/securityroles/</link><pubDate>Wed, 25 Jun 2025 16:23:07 +0530</pubDate><guid>/posts/securityroles/</guid><description>&lt;p&gt;Cybersecurity is a dynamic and complex field, encompassing a wide range of roles and responsibilities aimed at safeguarding an organization’s information, networks, and systems. These roles are critical in defending against the growing and evolving landscape of cyber threats. From strategic decision-making to hands-on technical tasks, various cybersecurity professionals work together to build comprehensive security measures.&lt;/p&gt;
+&lt;p&gt;Here are some of the most common cybersecurity roles found in organizations today:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Chief Information Security Officer (CISO)&lt;/strong&gt;&lt;/p&gt;</description></item><item><title>Introduction - Cybersecurity</title><link>/posts/cybersecurity/</link><pubDate>Tue, 10 Jun 2025 16:15:03 +0530</pubDate><guid>/posts/cybersecurity/</guid><description>&lt;p&gt;In today&amp;rsquo;s hyper-connected world, cybersecurity has become more crucial than ever. With the rapid advancement of technology and the increasing frequency of cyberattacks, safeguarding sensitive information is paramount. Whether you&amp;rsquo;re an individual, a business, or a large organization, understanding the importance of cybersecurity is the first step toward creating a secure digital environment.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;What is Cybersecurity?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Cybersecurity refers to the practice of protecting systems, networks, devices, and data from malicious attacks, damage, or unauthorized access. As the digital landscape evolves, so do the methods cybercriminals use to exploit vulnerabilities. Cybersecurity encompasses a wide range of measures, including technology, processes, and practices, all designed to ensure the confidentiality, integrity, and availability of information.&lt;/p&gt;</description></item><item><title>Welcome to My Tech Journey! 🚀</title><link>/posts/intro/</link><pubDate>Sat, 31 May 2025 12:07:52 +0530</pubDate><guid>/posts/intro/</guid><description>&lt;p&gt;Hello, and welcome to my corner of the internet! I&amp;rsquo;m a passionate coder with an enthusiasm for all things tech. From building scalable cloud infrastructure to diving deep into the world of cybersecurity, this blog will be a place where I share my knowledge, experiences, and explorations in the rapidly evolving tech landscape.&lt;/p&gt;
+&lt;h2 id="-about-me"&gt;🌟 About Me&lt;/h2&gt;
+&lt;p&gt;I&amp;rsquo;m someone who thrives on solving complex problems through technology, and I have a deep interest in:&lt;/p&gt;</description></item><item><title>Contact</title><link>/contact/</link><pubDate>Thu, 01 May 2025 16:10:23 +0530</pubDate><guid>/contact/</guid><description>&lt;p&gt;🌐 Connect with me&lt;/p&gt;
+&lt;p&gt;📫 Reach me: &lt;a href="mailto:cybershieldninja@yahoo.com"&gt;cybershieldninja@yahoo.com&lt;/a&gt;&lt;/p&gt;</description></item><item><title>About</title><link>/about/</link><pubDate>Thu, 01 May 2025 12:10:32 +0530</pubDate><guid>/about/</guid><description>&lt;p&gt;Thank you for visiting my blog. It&amp;rsquo;s a pleasure to meet you here!&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;🌟 Passions:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;💻 Coding enthusiast&lt;/p&gt;
+&lt;p&gt;☁️ Cloud Computing &amp;amp; DevSecOps – Passionate about building and securing scalable cloud systems&lt;/p&gt;
+&lt;p&gt;🔒 Cybersecurity – Focused on securing applications and infrastructure, both on-prem and in the cloud, using Ansible for automation and configuration management.&lt;/p&gt;
+&lt;p&gt;🤖 AI and Machine Learning – Exploring how security and AI can work together&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;🚀 Interests:&lt;/strong&gt;&lt;/p&gt;</description></item></channel></rss>
