@@ -115,6 +115,7 @@ body {
     grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
     gap: 2rem;
     margin-bottom: 3rem;
+    text-align: justify;    
 }
 
 .post-card {
@@ -138,6 +139,7 @@ body {
 
 .post-content {
     padding: 1.5rem;
+    text-align: justify;
 }
 
 .post-date {
@@ -196,6 +198,7 @@ body {
 .post-body {
     font-size: 1.125rem;
     line-height: 1.8;
+    text-align: justify;
 }
 
 .post-body h2 {
