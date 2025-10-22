@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zero-Day on My Personal Blog</title>
+    <link>/tags/zero-day/</link>
+    <description>Recent content in Zero-Day on My Personal Blog</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 19 Oct 2025 18:36:49 +0530</lastBuildDate>
+    <atom:link href="/tags/zero-day/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What Is a Zero-Day Exploit? Understanding the Threat and Defense Strategies 🎯🕵️‍♂️</title>
+      <link>/posts/zeroday/</link>
+      <pubDate>Sun, 19 Oct 2025 18:36:49 +0530</pubDate>
+      <guid>/posts/zeroday/</guid>
+      <description>&lt;p&gt;Zero-day exploits are one of the most feared—and misunderstood—types of cybersecurity threats. They are powerful, stealthy, and often used in targeted attacks that bypass even mature security defenses.&lt;/p&gt;&#xA;&lt;p&gt;Whether you&amp;rsquo;re just starting your career in cybersecurity or leading a threat-hunting team, understanding zero-day vulnerabilities and the exploits that weaponize them is critical for protecting systems and data.&lt;/p&gt;&#xA;&lt;p&gt;This guide breaks down the what, how, and why of zero-day exploits, including technical concepts, real-world case studies, and actionable strategies for detection and response.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
